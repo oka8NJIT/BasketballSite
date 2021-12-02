@@ -1,0 +1,106 @@
+*{
+    float:none;
+    clear:none;
+}
+
+body{
+    margin:0 0 100px 0;
+    padding: 0;
+    background-color: #3cb371;
+}
+
+nav{
+    background-color:#FFFFFF
+;
+    margin-bottom: 30px;
+}
+
+nav a{
+    color:#FFA500;
+    font-weight: bolder;
+    padding: 0 15px 0 15px;
+    font-size:18px;
+}
+
+.dropdown-menu{
+    display:none;
+}
+
+.dropdown:hover > .dropdown-menu{
+    display: block;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    width:320px;
+}
+
+#pagetitle{
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    font-weight: bold;
+    color: #FFFFFF
+;
+}
+
+.jumbotron {
+    min-height: 400px;
+    height:auto;
+    width: 100%;
+    background-color: #FFA500;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.jumbotron h2{
+    padding-top:0;
+    margin-top: 0;
+    color:#FFFFFF
+;
+}
+
+.jumbotron p{
+    max-width:600px;
+    height:auto;
+    color:#FFFFFF;
+    font-size:25px;
+}
+
+input[type=text], textarea{
+    width:100%;
+    border:1px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    padding:12px;
+
+}
+.contact_form{
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #b38867;
+    max-width: 700px;
+    width:auto;
+    margin:0 0 0 0;
+    font-size:20px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.footer span{
+    color:#FFA500;
+}
+img {
+    height: 200px;
+    width: 200px;
+}

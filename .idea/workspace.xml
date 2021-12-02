@@ -4,36 +4,75 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="" />
+    <list default="true" id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/Ball.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../untitled1\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1yGhwIotfld8BUwYG2Fp3l3IP3l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="CSS&#10;HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IS117 HW" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="HTML&#10;CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abuha\WebstormProjects\untitled1\Images" />
+      <recent name="C:\Users\abuha\WebstormProjects\untitled1" />
+      <recent name="C:\Users\abuha\WebstormProjects\untitled1\CSS" />
       <recent name="C:\Users\abuha\WebstormProjects\IS117 HW" />
       <recent name="C:\Users\abuha\WebstormProjects\untitled2" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abuha\WebstormProjects\untitled1\CSS" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\abuha\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="" />
@@ -44,10 +83,34 @@
       <workItem from="1631884069622" duration="7000" />
       <workItem from="1634504765663" duration="2000" />
       <workItem from="1634504776306" duration="5341000" />
+      <workItem from="1634510360071" duration="935000" />
+      <workItem from="1634920345410" duration="1000" />
+      <workItem from="1635438281458" duration="2000" />
+      <workItem from="1635706849672" duration="174000" />
+      <workItem from="1636655769729" duration="3000" />
+      <workItem from="1636656326717" duration="37000" />
+      <workItem from="1638116830548" duration="1242000" />
+      <workItem from="1638146849592" duration="5000" />
+      <workItem from="1638213800661" duration="1055000" />
+      <workItem from="1638295278086" duration="83000" />
+      <workItem from="1638462689480" duration="353000" />
+      <workItem from="1638464124747" duration="3857000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
