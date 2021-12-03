@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="Added li">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="Added name change">
+      <change beforePath="$PROJECT_DIR$/ESPN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ESPN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +95,7 @@
       <workItem from="1638295278086" duration="83000" />
       <workItem from="1638462689480" duration="353000" />
       <workItem from="1638464124747" duration="8980000" />
+      <workItem from="1638516541253" duration="335000" />
     </task>
     <task id="LOCAL-00001" summary="Added CSS File">
       <created>1638468056203</created>
@@ -116,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638471904319</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added name changes">
+      <created>1638516657206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638516657206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added name change">
+      <created>1638516708677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638516708677</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +154,8 @@
     <MESSAGE value="Added CSS File" />
     <MESSAGE value="Added ." />
     <MESSAGE value="Added li" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added li" />
+    <MESSAGE value="Added name changes" />
+    <MESSAGE value="Added name change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added name change" />
   </component>
 </project>
