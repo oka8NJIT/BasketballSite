@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="Added name change">
+    <list default="true" id="91c6cd0f-e7d9-4938-846e-e1ab5f9c4860" name="Changes" comment="href espn.html change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basketball.html" beforeDir="false" afterPath="$PROJECT_DIR$/Basketball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESPN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ESPN.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScoreBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/ScoreBoard.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +99,7 @@
       <workItem from="1638295278086" duration="83000" />
       <workItem from="1638462689480" duration="353000" />
       <workItem from="1638464124747" duration="8980000" />
-      <workItem from="1638516541253" duration="335000" />
+      <workItem from="1638516541253" duration="986000" />
     </task>
     <task id="LOCAL-00001" summary="Added CSS File">
       <created>1638468056203</created>
@@ -132,7 +136,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638516708677</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="name change">
+      <created>1638516937723</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638516937723</updated>
+    </task>
+    <task id="LOCAL-00007" summary="href espn.html change">
+      <created>1638517053976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638517053976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +174,8 @@
     <MESSAGE value="Added li" />
     <MESSAGE value="Added name changes" />
     <MESSAGE value="Added name change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added name change" />
+    <MESSAGE value="name change" />
+    <MESSAGE value="href espn.html change" />
+    <option name="LAST_COMMIT_MESSAGE" value="href espn.html change" />
   </component>
 </project>
